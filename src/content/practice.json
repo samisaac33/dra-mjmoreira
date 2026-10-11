@@ -1,0 +1,63 @@
+{
+  "slug": "dra-mjmoreira",
+  "name": "Dra. María José Moreira",
+  "shortName": "Dra. MJ Moreira",
+  "title": "Pediatra · Nutricionista pediátrica",
+  "tagline": "Crecimiento saludable con ciencia, calidez y acompañamiento a las familias",
+  "location": {
+    "city": "Portoviejo",
+    "country": "Ecuador",
+    "address": ""
+  },
+  "specialties": ["Pediatría", "Nutrición pediátrica"],
+  "highlights": [
+    "Especialista en pediatría",
+    "Especialista en nutrición pediátrica",
+    "Docente universitaria"
+  ],
+  "about": {
+    "intro": "Acompaño a niñas, niños y adolescentes — y a sus familias — en el cuidado integral de la salud y la alimentación. Mi enfoque combina evidencia clínica, escucha activa y planes realistas para el día a día.",
+    "approach": [
+      "Evaluación integral del niño sano y del paciente con necesidades nutricionales específicas",
+      "Educación clara para padres y cuidadores, sin culpas ni dietas extremas",
+      "Seguimiento de crecimiento, desarrollo y hábitos alimentarios",
+      "Coordinación con otros especialistas cuando el caso lo requiere"
+    ]
+  },
+  "services": [
+    {
+      "id": "consulta-pediatrica",
+      "title": "Consulta pediátrica",
+      "description": "Control del niño sano, valoración de síntomas agudos y orientación preventiva según edad y contexto familiar.",
+      "forWho": "Desde recién nacidos hasta adolescentes"
+    },
+    {
+      "id": "nutricion-pediatrica",
+      "title": "Nutrición pediátrica",
+      "description": "Planes alimentarios personalizados: lactancia, alimentación complementaria, selectividad, sobrepeso, bajo peso, alergias e intolerancias (según evaluación).",
+      "forWho": "Familias que buscan mejorar hábitos con acompañamiento profesional"
+    },
+    {
+      "id": "seguimiento-crecimiento",
+      "title": "Seguimiento de crecimiento",
+      "description": "Interpretación de curvas de peso, talla e IMC; detección oportuna de desviaciones y definición de metas realistas.",
+      "forWho": "Controles periódicos y seguimiento post-consulta"
+    },
+    {
+      "id": "orientacion-familiar",
+      "title": "Orientación a padres",
+      "description": "Sesiones enfocadas en dudas frecuentes: sueño, alimentación, desarrollo, preparación para estudios o interconsultas.",
+      "forWho": "Padres, madres y cuidadores principales"
+    }
+  ],
+  "social": {
+    "instagram": "https://www.instagram.com/dra.mjmoreira/"
+  },
+  "contact": {
+    "whatsapp": "",
+    "phone": "",
+    "email": "",
+    "hours": "Horario de consulta: confirmar al agendar cita"
+  },
+  "disclaimer": "La información de este sitio es educativa y no sustituye una consulta médica presencial ni de urgencia. Ante signos de alarma, acuda a emergencias."
+}
