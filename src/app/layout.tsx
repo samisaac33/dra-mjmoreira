@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Nunito, Source_Serif_4 } from "next/font/google";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
+import { WhatsAppFloatButton } from "@/components/whatsapp-float-button";
 import { practice, siteUrl } from "@/lib/practice";
 import "./globals.css";
 
@@ -48,6 +49,7 @@ export default function RootLayout({
         <SiteHeader />
         {children}
         <SiteFooter />
+        <WhatsAppFloatButton />
       </body>
     </html>
   );
